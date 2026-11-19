@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">साउंड ट्रैकर</string>
+    <string name="service_label">साउंड ट्रैकर सेवा</string>
+    <string name="service_desc">फोन में टच, स्वाइप, होम, नोटिफिकेशन पैनल जैसी गतिविधियाँ पहचानकर साउंड बजाती है और उनकी सूची रिकॉर्ड करती है। टाइप किया गया टेक्स्ट या पासवर्ड रिकॉर्ड नहीं होता।</string>
+</resources>
